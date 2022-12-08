@@ -5,7 +5,7 @@ Tugas : PBO OOP Bangun Datar
 
 
 
-#Program yang Di gunakan
+# Program yang Di gunakan
 
 ## Inheritance
 ## Abstraction
